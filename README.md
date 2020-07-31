@@ -1,6 +1,6 @@
-# Prime-Parking-Sequences
+# Parking-Sequences
 
-##### This program could be used to generate and calculate the number of parking sequences and prime parking sequences, given a length vector and the size of a trailer.
+##### This program could be used to generate and calculate the number of parking sequences, prime parking sequences, and invariant parking sequences, given a length vector and the size of a trailer.
 ##### The last function, 'easyRun()', is the only function that users needs to use to run examples.
 ##### easyRun() takes in 2 parameters: the length vector and z. It prints out the number of parking sequences and the number of prime parking sequences. It could also print out all possible parking configurations, preference vectors, and prime parking sequences, if you uncomment certain lines of the code. 
 
